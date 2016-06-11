@@ -1,0 +1,12 @@
+// ID rules
+// Class rules
+.container {
+    display: block;
+}
+// Pseudoclass rules
+// Pseudoelement rules
+// Element rules (hopefully none)
+body {
+    background-color: #EEE;
+    color: #111;
+}
