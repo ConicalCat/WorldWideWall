@@ -1,3 +1,6 @@
+<?php
+include("prevention");
+?>
 <!DOCTYPE html>
 <html>
     <head>
