@@ -1,21 +1,22 @@
 <?php
-include("prevention");
+include("src/prevention");
 ?>
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8"/>
-        <title>WorldWideWall.net</title>
+        <title>WorldWideWall &emdash; Home</title>
+<link type="text/css" href="src/css/index.css"/>
     </head>
     <body>
         <?php
-            include("header.php");
+            include("src/header.php");
         ?>
         <div class="container middle">
 
         </div>
         <?php
-            include("footer.php");
+            include("src/footer.php");
         ?>
     </body>
 </html>
